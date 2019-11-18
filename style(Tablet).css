@@ -5,7 +5,10 @@
     font-weight: 600;
     line-height: 16px;
   }
-
+  .scrol_to_top {
+    display: block;
+  }
+  
   /* HEADER */
   .headerContent__title--question {
     width: 85%;
